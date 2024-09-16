@@ -1,6 +1,8 @@
 {
   "version": 2,
-  "env": {},
+  "env": {
+    "MARYLAND_GOVERNMENT_BIDS_PORTAL": "https://emma.maryland.gov/page.aspx/en/rfp/request_browse_public"
+  },
   "builds": [
     {
       "src": "src/main.ts",
